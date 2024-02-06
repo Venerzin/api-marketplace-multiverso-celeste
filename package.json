@@ -10,6 +10,7 @@
     "elysia": "latest"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.5.2",
     "prisma": "^5.8.1"
   },
   "module": "src/index.js"
