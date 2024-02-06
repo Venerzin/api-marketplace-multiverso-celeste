@@ -7,10 +7,12 @@
   },
   "dependencies": {
     "@prisma/client": "^5.8.1",
+    "bcrypt": "^5.1.1",
     "elysia": "latest"
   },
   "devDependencies": {
     "@biomejs/biome": "1.5.2",
+    "@types/bcrypt": "^5.0.2",
     "prisma": "^5.8.1"
   },
   "module": "src/index.js"
